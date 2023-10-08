@@ -1,0 +1,9 @@
+#colors
+MAIN_COLOR = '#362c28'
+BG_COLOR = '#d4fcc3'
+
+#font
+FONT = 'Calibri'
+BTN_FONT_SIZE = 25
+ENTRY_FONT_SIZE = 20
+BUTTON_CORNER_RADIUS = 15
